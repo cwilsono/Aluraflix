@@ -1,0 +1,143 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Live action de One Piece",
+      "linkVideo": "https://youtu.be/4k0YKcqWlBI?si=Ln6rPtu7kQCI3NgL",
+      "linkImagenVideo": "https://cdn.oneesports.gg/cdn-data/2023/08/OnePIece_LiveAction_Cast_Costumes_Posters_Netflix.jpg",
+      "Categoria": "Populares",
+      "descripcion": "",
+      "codigoSeguridad": ""
+    },
+    {
+      "id": 2,
+      "titulo": "Jujutsu Kaisen",
+      "linkVideo": "https://youtu.be/GwaRztMaoY0?si=mSUW1TbbWG3nT_Fp",
+      "linkImagenVideo": "https://img.asmedia.epimg.net/resizer/XjHwxCukTdjN417_5rmMxqbNceE=/736x414/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/Q23HHDAZYZAOTHSKZYELCBNSSI.jpg",
+      "Categoria": "Populares",
+      "decripcion": "",
+      "codigoSeguridad": ""
+    },
+    {
+      "titulo": "Nana",
+      "linkVideo": "https://youtu.be/I671_pldjDU?si=WHn0FnZ16TzFKJiW",
+      "Categoria": "Josei",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "codigoSeguridad": "1111111",
+      "linkImagenVideo": "https://fotografias-neox.atresmedia.com/clipping/cmsimages01/2022/07/06/9CCBB915-6DF9-415A-B29C-7AF760F29848/nana_98.jpg?crop=870,489,x0,y15&width=1900&height=1069&optimize=high&format=webply",
+      "id": 8
+    },
+    {
+      "titulo": "Cowboy Bebop",
+      "linkVideo": "https://youtu.be/EL-D9LrFJd4?si=lRS7-qyfRvb5DIpY",
+      "Categoria": "Seinen",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.\n¿Quieres saber más?\n",
+      "codigoSeguridad": "22222",
+      "linkImagenVideo": "https://i.blogs.es/100e35/cowboy-bebop-protagonistas/1366_2000.jpeg",
+      "id": 9
+    },
+    {
+      "titulo": "Naruto",
+      "linkVideo": "https://youtu.be/zVgKnfN9i34?si=JbIIcbizMQxTt3jg",
+      "Categoria": "Populares",
+      "descripcion": "Box Model y Box sizing",
+      "codigoSeguridad": "33333",
+      "linkImagenVideo": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/3f283002b47c62b1e5d311c45f95c97e.jpe",
+      "id": 10
+    },
+    {
+      "titulo": "Paradise kiss ",
+      "linkVideo": "https://youtu.be/iXOHZqyXn_A?si=n9JkY47uHREyUj_1",
+      "Categoria": "Josei",
+      "descripcion": "**El aprendizaje organizacional promueve tanto la adaptación al cambio como el crecimiento de la empresa**. Pero, ¿tienes alguna idea de cómo hacerse esto? En este Alura+, Priscila Stuani habla sobre el papel de la organización en el proceso de aprendizaje de sus profesionales.\n\nLas organizaciones tienen responsabilidades en el proceso de aprendizaje de sus colaboradores. Una de las formas de actuar en este sentido es potenciar algunas habilidades, como el pensamiento sistémico, el dominio personal, trabajar modelos mentales, construir una visión compartida, aprender en equipo y reconocer los patrones de interacción que dificultan este aprendizaje, además de componentes de tecnologías estimulantes.",
+      "codigoSeguridad": "11111a",
+      "linkImagenVideo": "https://i0.wp.com/www.animefeminist.com/wp-content/uploads/2020/11/parakiss1.png?fit=1630%2C920&ssl=1",
+      "id": 11
+    },
+    {
+      "titulo": "Violet Evergarden",
+      "linkVideo": "https://youtu.be/Fc-XPJE3oeM?si=zGftAqwAfaDxPpCQ",
+      "Categoria": "Josei",
+      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.\n\n¿Quieres saber más?\n\nVe nuestros cursos de Innovación y Gestión:\nhttps://www.aluracursos.com/cursos-on...\n\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
+      "codigoSeguridad": "666666666",
+      "linkImagenVideo": "https://anime.atsit.in/l/wp-content/uploads/2022/11/netflix-cong-bo-violet-evergarden-tong-hop-hoi-uc-cho-ngay-15-thang-12.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Monster",
+      "linkVideo": "https://youtu.be/EYdCd00TJhI?si=ohLiTHbtrAtAouw9",
+      "Categoria": "Seinen",
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? \nEn este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.\n\n¿Te gustaría aprender Java desde 0 en nuestra plataforma? Da click aqui - https://www.aluracursos.com/formacion...\nConoce más detalles sobre los tipos de datos enum visitando la documentación oficial - https://docs.oracle.com/javase/tutori...",
+      "codigoSeguridad": "333333",
+      "linkImagenVideo": "https://qph.cf2.quoracdn.net/main-qimg-8eb6bf3dc70d177969dbc2d7e65d0f3d-lq",
+      "id": 13
+    },
+    {
+      "titulo": "Tokyo Ghoul",
+      "linkVideo": "https://youtu.be/uMeR2W19wT0?si=TY3cK9t96mGzs0H9",
+      "Categoria": "Seinen",
+      "descripcion": "Ve nuestros cursos de Machine Learning\nhttps://www.aluracursos.com/cursos-on...\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile\n\nProducción audiovisual: Henrique Balleiras\n",
+      "codigoSeguridad": "777777",
+      "linkImagenVideo": "https://lh3.googleusercontent.com/-VwYJYTxMadw/YoL7IYxawCI/AAAAAAAAtxc/fXe7VGiQKOw6JT9BMZu1qTnnSArDhc7WQCNcBGAsYHQ/w1200-h630-p-k-no-nu/Episodios-Tokyo-Ghoul-Sin-Relleno-Orden-Para-Ver.jpg",
+      "id": 14
+    },
+    {
+      "titulo": "Guns no Life",
+      "linkVideo": "https://youtu.be/M4vKKjZYB_A?si=tp7moUrMY73LSowH",
+      "Categoria": "Seinen",
+      "descripcion": "Ve nuestros cursos de Machine Learning\nhttps://www.aluracursos.com/cursos-on...\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile\n\nProducción audiovisual: Henrique Balleiras\n",
+      "codigoSeguridad": "777777",
+      "linkImagenVideo": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6186bd4ee1ec786338b50880b03ab2f5.jpe",
+      "id": 18
+    },
+    {
+      "titulo": "Bunny Senpai",
+      "linkVideo": "https://youtu.be/6skJdifi6sY?si=TdM2yp0UBpWBYjGz",
+      "Categoria": "Populares",
+      "descripcion": "\nEn este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.\n\n¿Quieres saber más?\n\nEntra a nuestra plataforma, dónde encontrarás variados cursos de tecnología:\nhttps://www.aluracursos.com/\n\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
+      "codigoSeguridad": "1111111",
+      "linkImagenVideo": "https://i0.wp.com/www.animefeminist.com/wp-content/uploads/2018/10/bunnygirl1.jpg?fit=956%2C540&ssl=1",
+      "id": 15
+    },
+    {
+      "titulo": "Kimetsu no Yaiba",
+      "linkVideo": "https://youtu.be/YkJvHe3KK2c?si=L704nPPbTLubmjyW",
+      "Categoria": "Populares",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+      "codigoSeguridad": "555555555",
+      "linkImagenVideo": "https://media.vandalsports.com/m/2-2022/2022222174042_1.jpg",
+      "id": 16
+    },
+    {
+      "titulo": "video categoria de prueba",
+      "linkVideo": " https://youtu.be/dFdXtJG4p4A?si=fms2ZWMEHf8qt-eo",
+      "Categoria": "Categoria de  prueba",
+      "descripcion": "prueba categoria",
+      "codigoSeguridad": "xxxxxxx",
+      "linkImagenVideo": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/3f283002b47c62b1e5d311c45f95c97e.jpe",
+      "id": 17
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoriaNombre": "Populares",
+      "categoriaTexto": "Lo mas visto",
+      "categoriaColor": "#6BD1FF"
+    },
+    {
+      "categoriaNombre": "Seinen",
+      "categoriaTexto": "Historias Profundas",
+      "categoriaColor": "#ff2700",
+      "codigoSeguridad": "333333333",
+      "id": 2
+    },
+    {
+      "categoriaNombre": "Josei",
+      "categoriaTexto": "Romance Adulto",
+      "categoriaColor": "#630b57",
+      "codigoSeguridad": "1111111",
+      "id": 3
+    }
+  ]
+}
